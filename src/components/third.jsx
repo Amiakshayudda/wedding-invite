@@ -35,7 +35,7 @@ const Third = () => {
                         <span>Akkalkot, Dist. Solapur - 413216</span>
                     </span>
                     <span style={{fontSize:'18px', textAlign:'center'}} className="heading flex flex-col items-center justify-center mb-4">
-                        <span>Contact - 797204120/9049442397</span>
+                        <span>Contact - 7972074120/9049442397</span>
                     </span>
                 </div>
                 <div className="w-full flex flex-col items-center justify-center pt-14">
